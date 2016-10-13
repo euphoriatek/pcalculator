@@ -1,0 +1,1 @@
+[09-Dec-2015 10:15:02 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/zilculat/public_html/_api/app/Http/Requests/Request.php on line 8

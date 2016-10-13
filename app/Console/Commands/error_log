@@ -1,0 +1,4 @@
+[01-Jan-2016 11:50:12 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/zilculat/public_html/_api/app/Console/Commands/Inspire.php on line 9
+[03-Jan-2016 17:16:36 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/zilculat/public_html/_api/app/Console/Commands/Inspire.php on line 9
+[05-Jan-2016 14:17:14 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/zilculat/public_html/_api/app/Console/Commands/Inspire.php on line 9
+[07-Jan-2016 18:22:08 America/Denver] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/zilculat/public_html/_api/app/Console/Commands/Inspire.php on line 9

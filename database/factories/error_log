@@ -1,0 +1,8 @@
+[02-Dec-2015 12:12:30 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[03-Dec-2015 07:09:15 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[03-Dec-2015 13:28:29 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[08-Dec-2015 02:07:07 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[08-Dec-2015 17:19:48 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[23-Dec-2015 11:29:46 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[23-Dec-2015 12:15:58 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14
+[25-Dec-2015 09:58:21 America/Denver] PHP Fatal error:  Call to a member function define() on a non-object in /home/zilculat/public_html/_api/database/factories/ModelFactory.php on line 14

@@ -1,0 +1,7 @@
+[07-Dec-2015 12:00:25 America/Denver] PHP Fatal error:  Class 'Route' not found in /home/zilculat/public_html/_api/app/Http/routes.php on line 17
+[08-Dec-2015 02:06:53 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/zilculat/public_html/_api/app/Http/Kernel.php on line 8
+[08-Dec-2015 17:19:35 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/zilculat/public_html/_api/app/Http/Kernel.php on line 8
+[17-Dec-2015 15:14:46 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/zilculat/public_html/_api/app/Http/Kernel.php on line 8
+[17-Dec-2015 15:14:48 America/Denver] PHP Fatal error:  Class 'Route' not found in /home/zilculat/public_html/_api/app/Http/routes.php on line 16
+[01-Jan-2016 11:50:22 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/zilculat/public_html/_api/app/Http/Kernel.php on line 8
+[01-Jan-2016 11:50:29 America/Denver] PHP Fatal error:  Class 'Route' not found in /home/zilculat/public_html/_api/app/Http/routes.php on line 16

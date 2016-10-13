@@ -1,0 +1,89 @@
+[27-Nov-2015 08:04:58 America/Denver] PHP Warning:  require(/home/zilculat/public_html/_api/app/Helper/Cal.php): failed to open stream: No such file or directory in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:04:58 America/Denver] PHP Fatal error:  require(): Failed opening required '/home/zilculat/public_html/_api/app/Helper/Cal.php' (include_path='/home/zilculat/public_html/_api/vendor/phpseclib/phpseclib/phpseclib:.:/usr/lib/php:/usr/local/lib/php') in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:05:01 America/Denver] PHP Warning:  require(/home/zilculat/public_html/_api/app/Helper/Cal.php): failed to open stream: No such file or directory in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:05:01 America/Denver] PHP Fatal error:  require(): Failed opening required '/home/zilculat/public_html/_api/app/Helper/Cal.php' (include_path='/home/zilculat/public_html/_api/vendor/phpseclib/phpseclib/phpseclib:.:/usr/lib/php:/usr/local/lib/php') in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:05:09 America/Denver] PHP Warning:  require(/home/zilculat/public_html/_api/app/Helper/Cal.php): failed to open stream: No such file or directory in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:05:09 America/Denver] PHP Fatal error:  require(): Failed opening required '/home/zilculat/public_html/_api/app/Helper/Cal.php' (include_path='/home/zilculat/public_html/_api/vendor/phpseclib/phpseclib/phpseclib:.:/usr/lib/php:/usr/local/lib/php') in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:05:12 America/Denver] PHP Warning:  require(/home/zilculat/public_html/_api/app/Helper/Cal.php): failed to open stream: No such file or directory in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[27-Nov-2015 08:05:12 America/Denver] PHP Fatal error:  require(): Failed opening required '/home/zilculat/public_html/_api/app/Helper/Cal.php' (include_path='/home/zilculat/public_html/_api/vendor/phpseclib/phpseclib/phpseclib:.:/usr/lib/php:/usr/local/lib/php') in /home/zilculat/public_html/_api/vendor/composer/autoload_real.php on line 58
+[28-Nov-2015 05:56:06 UTC] PHP Fatal error:  Class 'User' not found in /home/zilculat/public_html/_api/app/Http/routes.php on line 48
+[28-Nov-2015 10:40:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Dingo\Api\Exception\StoreResourceFailedException' not found in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 27
+[28-Nov-2015 06:55:10 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/zilculat/public_html/_api/app/Helper/Cal.php on line 532
+[30-Nov-2015 20:32:18 UTC] PHP Fatal error:  Class 'Barryvdh\Cors\ServiceProvider' not found in /home/zilculat/public_html/_api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Nov-2015 20:38:29 UTC] PHP Fatal error:  Class 'Barryvdh\Cors\ServiceProvider' not found in /home/zilculat/public_html/_api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Nov-2015 20:44:46 UTC] PHP Fatal error:  Class 'Barryvdh\Cors\ServiceProvider' not found in /home/zilculat/public_html/_api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Nov-2015 20:45:13 UTC] PHP Fatal error:  Class 'Barryvdh\Cors\ServiceProvider' not found in /home/zilculat/public_html/_api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Nov-2015 21:08:31 UTC] PHP Fatal error:  Class 'Barryvdh\Cors\ServiceProvider' not found in /home/zilculat/public_html/_api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[30-Nov-2015 21:15:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zilculat/public_html/_api/app/Http/routes.php on line 24
+[30-Nov-2015 15:18:05 America/Denver] PHP Warning:  session_start(): open(/tmp/sess_29b1bada87056c4758bf02fda5672ece, O_RDWR) failed: Permission denied (13) in /home/zilculat/public_html/_api/public/adminer.php on line 159
+[01-Dec-2015 06:12:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Socialize' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 92
+[01-Dec-2015 06:12:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Socialize' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 92
+[01-Dec-2015 07:41:41 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\Response::json() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 113
+[02-Dec-2015 06:33:51 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 31
+[02-Dec-2015 06:34:23 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 31
+[02-Dec-2015 06:34:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 31
+[02-Dec-2015 07:15:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Validator' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 55
+[02-Dec-2015 07:18:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\update_exception' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 58
+[02-Dec-2015 07:19:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\update_exception' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 58
+[02-Dec-2015 07:19:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\update_exception' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 58
+[02-Dec-2015 07:19:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\update_exception' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 58
+[02-Dec-2015 07:19:24 UTC] PHP Fatal error:  Class 'App\Http\Controllers\update_exception' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 58
+[02-Dec-2015 07:19:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\update_exception' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 58
+[02-Dec-2015 10:57:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 34
+[02-Dec-2015 14:59:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 201
+[02-Dec-2015 15:04:11 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtention() on a non-object in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 204
+[02-Dec-2015 15:04:38 UTC] PHP Fatal error:  Call to a member function getOriginalExtention() on a non-object in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 204
+[02-Dec-2015 15:05:55 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on a non-object in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 204
+[02-Dec-2015 15:05:58 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on a non-object in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 204
+[03-Dec-2015 05:32:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 201
+[03-Dec-2015 11:49:06 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\MessageBag::get_message() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 97
+[03-Dec-2015 13:53:29 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/zilculat/public_html/_api/vendor/matriphe/imageupload/src/Matriphe/Imageupload/Imageupload.php on line 68
+[03-Dec-2015 13:54:45 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/zilculat/public_html/_api/vendor/matriphe/imageupload/src/Matriphe/Imageupload/Imageupload.php on line 68
+[03-Dec-2015 13:55:02 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home/zilculat/public_html/_api/vendor/matriphe/imageupload/src/Matriphe/Imageupload/Imageupload.php on line 68
+[07-Dec-2015 11:40:50 UTC] PHP Fatal error:  Class 'User' not found in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 35
+[07-Dec-2015 11:47:23 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\timestamps() in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 35
+[07-Dec-2015 11:47:29 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\timestamps() in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 35
+[07-Dec-2015 11:47:57 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\timestamps() in /home/zilculat/public_html/_api/app/Http/Controllers/AuthenticateController.php on line 35
+[09-Dec-2015 07:56:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\JWTAuth' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 26
+[09-Dec-2015 07:56:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\JWTAuth' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 26
+[09-Dec-2015 07:56:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\JWTAuth' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 26
+[10-Dec-2015 07:27:19 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 275
+[10-Dec-2015 07:50:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 287
+[10-Dec-2015 07:50:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 287
+[10-Dec-2015 08:04:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 286
+[10-Dec-2015 08:04:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 286
+[10-Dec-2015 08:04:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Hash' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 286
+[10-Dec-2015 09:43:03 UTC] PHP Fatal error:  Call to undefined method GuzzleHttp\Psr7\Response::toArray() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 297
+[10-Dec-2015 09:43:06 UTC] PHP Fatal error:  Call to undefined method GuzzleHttp\Psr7\Response::toArray() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 297
+[10-Dec-2015 10:11:07 UTC] PHP Fatal error:  Call to a member function toArray() on a non-object in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 299
+[10-Dec-2015 10:11:12 UTC] PHP Fatal error:  Call to a member function toArray() on a non-object in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 299
+[10-Dec-2015 10:16:39 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\subject() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 297
+[10-Dec-2015 10:16:42 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\subject() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 297
+[14-Dec-2015 06:44:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ExpressCheckoutDetails' not found in /home/zilculat/public_html/_api/app/Http/Controllers/ScheduleController.php on line 134
+[14-Dec-2015 06:44:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\ExpressCheckoutDetails' not found in /home/zilculat/public_html/_api/app/Http/Controllers/ScheduleController.php on line 134
+[14-Dec-2015 08:02:38 UTC] PHP Fatal error:  Class 'App\PROFILE' not found in /home/zilculat/public_html/_api/app/Http/Controllers/ScheduleController.php on line 186
+[14-Dec-2015 08:02:52 UTC] PHP Fatal error:  Class 'App\PROFILE' not found in /home/zilculat/public_html/_api/app/Http/Controllers/ScheduleController.php on line 186
+[14-Dec-2015 08:03:52 UTC] PHP Fatal error:  Class 'App\PROFILE' not found in /home/zilculat/public_html/_api/app/Http/Controllers/ScheduleController.php on line 186
+[14-Dec-2015 12:05:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Validator' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 36
+[14-Dec-2015 12:06:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Validator' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 36
+[15-Dec-2015 10:09:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Ipn' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 164
+[15-Dec-2015 10:10:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Ipn' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 164
+[15-Dec-2015 10:10:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Ipn' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 164
+[15-Dec-2015 10:11:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Ipn' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 164
+[15-Dec-2015 10:11:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Ipn' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 164
+[15-Dec-2015 10:11:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Ipn' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 164
+[16-Dec-2015 12:05:54 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Socialite' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 229
+[16-Dec-2015 12:08:53 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Socialite' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 229
+[16-Dec-2015 13:13:33 UTC] PHP Fatal error:  Call to undefined method Dingo\Api\Dispatcher::redirect() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 231
+[16-Dec-2015 13:16:24 UTC] PHP Fatal error:  Class 'App\Http\Controllers\API' not found in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 231
+[16-Dec-2015 13:17:04 UTC] PHP Fatal error:  Undefined class constant 'route' in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 231
+[16-Dec-2015 13:17:52 UTC] PHP Fatal error:  Call to undefined method Dingo\Api\Routing\Helpers::any() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 231
+[16-Dec-2015 13:18:17 UTC] PHP Fatal error:  Call to undefined method Dingo\Api\Routing\Helpers::redirect() in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 231
+[16-Dec-2015 13:41:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/zilculat/public_html/_api/app/Http/Controllers/UsersController.php on line 208
+[17-Dec-2015 11:54:07 UTC] PHP Fatal error:  Call to undefined method Dingo\Api\Http\Request::post() in /home/zilculat/public_html/_api/app/Http/Controllers/PropertyController.php on line 319
+[17-Dec-2015 11:54:43 UTC] PHP Fatal error:  Call to undefined method Dingo\Api\Http\Request::post() in /home/zilculat/public_html/_api/app/Http/Controllers/PropertyController.php on line 319
+[17-Dec-2015 11:55:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\FILE' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PropertyController.php on line 340
+[17-Dec-2015 11:56:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\FILE' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PropertyController.php on line 340
+[17-Dec-2015 11:58:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\FILE' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PropertyController.php on line 341
+[23-Dec-2015 11:43:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 124
+[23-Dec-2015 11:44:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/zilculat/public_html/_api/app/Http/Controllers/PaypalController.php on line 124

@@ -1,0 +1,6 @@
+[01-Dec-2015 12:12:36 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/zilculat/public_html/_api/database/seeds/DatabaseSeeder.php on line 8
+[01-Dec-2015 18:38:11 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/zilculat/public_html/_api/database/seeds/DatabaseSeeder.php on line 8
+[02-Dec-2015 09:40:58 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/zilculat/public_html/_api/database/seeds/DatabaseSeeder.php on line 8
+[08-Dec-2015 02:07:17 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/zilculat/public_html/_api/database/seeds/DatabaseSeeder.php on line 8
+[08-Dec-2015 17:20:01 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/zilculat/public_html/_api/database/seeds/DatabaseSeeder.php on line 8
+[23-Dec-2015 11:30:11 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/zilculat/public_html/_api/database/seeds/DatabaseSeeder.php on line 8

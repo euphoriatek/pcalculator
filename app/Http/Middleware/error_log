@@ -1,0 +1,4 @@
+[09-Dec-2015 10:14:54 America/Denver] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/zilculat/public_html/_api/app/Http/Middleware/EncryptCookies.php on line 8
+[09-Dec-2015 10:14:57 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/zilculat/public_html/_api/app/Http/Middleware/VerifyCsrfToken.php on line 8
+[03-Jan-2016 17:04:55 America/Denver] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/zilculat/public_html/_api/app/Http/Middleware/EncryptCookies.php on line 8
+[09-Jan-2016 02:37:03 America/Denver] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/zilculat/public_html/_api/app/Http/Middleware/EncryptCookies.php on line 8
